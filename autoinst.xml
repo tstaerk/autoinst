@@ -962,7 +962,6 @@ DefaultPolicy default
       <package>crda</package>
       <package>dconf</package>
       <package>desktop-translations</package>
-      <package>flash-player-kde4</package>
       <package>gconf-polkit</package>
       <package>gconf2-branding-openSUSE</package>
       <package>gdk-pixbuf-loader-libopenraw</package>
@@ -975,8 +974,6 @@ DefaultPolicy default
       <package>gstreamer-0_10-plugin-gnomevfs</package>
       <package>gxditview</package>
       <package>hicolor-icon-theme-branding-openSUSE</package>
-      <package>kdeartwork4-wallpapers</package>
-      <package>kdeartwork4-wallpapers-weather</package>
       <package>kdebase4-workspace-plasma-engine-akonadi</package>
       <package>kexec-tools</package>
       <package>kipi-plugins-acquireimage</package>
