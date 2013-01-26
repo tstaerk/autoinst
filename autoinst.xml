@@ -8,7 +8,7 @@
     <device_map config:type="list">
       <device_map_entry>
         <firmware>hd0</firmware>
-        <linux>/dev/disk/by-id/ata-VBOX_HARDDISK_VB818e1f54-175eb625</linux>
+        <linux>/dev/sda</linux>
       </device_map_entry>
     </device_map>
     <global>
