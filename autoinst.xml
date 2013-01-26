@@ -512,7 +512,6 @@
       <rule>
         <name>eth0</name>
         <rule>ATTR{address}</rule>
-        <value>08:00:27:d8:4c:56</value>
       </rule>
     </net-udev>
     <routing>
