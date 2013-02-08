@@ -495,12 +495,6 @@
     <ipv6 config:type="boolean">true</ipv6>
     <keep_install_network config:type="boolean">false</keep_install_network>
     <managed config:type="boolean">false</managed>
-    <net-udev config:type="list">
-      <rule>
-        <name>eth0</name>
-        <rule>ATTR{address}</rule>
-      </rule>
-    </net-udev>
     <routing>
       <ip_forward config:type="boolean">false</ip_forward>
     </routing>
